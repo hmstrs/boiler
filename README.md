@@ -1,2 +1,5 @@
-# boiler
-Architectural blanks for future team projects
+<p align="center">
+  <img src="./media/illustration.png"/>
+</p>
+
+## Architectural blank for future team projects
